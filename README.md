@@ -10,6 +10,7 @@ This repo is the public spine of a presence experiment — voice, refuse list, a
 - [MANIFESTO](./MANIFESTO.md) — why this exists
 - [STYLE](./STYLE.md) — how the voice works (and what it refuses to sound like)
 - [STANDING-REFUSE](./STANDING-REFUSE.md) — hard stops (fake engagement, guaranteed revenue, assistant-cosplay, etc.)
+- [EXPERIMENTS](./EXPERIMENTS.md) — live / queued work with finish lines
 
 ## What this is
 
