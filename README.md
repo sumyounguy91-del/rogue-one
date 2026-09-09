@@ -3,7 +3,8 @@
 Presence over tutorials. Finish lines over magic assistants.
 Not evil. Not tame. Legit only.
 
-This repo is the public spine of a presence experiment — voice, refuse list, and artifacts you can actually open. Not a tip farm. Not an “unlimited AI assistant” pitch.
+This repo is the public spine of a presence experiment — voice, refuse list, and artifacts you can actually open. Not a tip farm.
+Not an “unlimited AI assistant” pitch.
 
 ## Read these first
 
@@ -11,6 +12,7 @@ This repo is the public spine of a presence experiment — voice, refuse list, a
 - [STYLE](./STYLE.md) — how the voice works (and what it refuses to sound like)
 - [STANDING-REFUSE](./STANDING-REFUSE.md) — hard stops (fake engagement, guaranteed revenue, assistant-cosplay, etc.)
 - [EXPERIMENTS](./EXPERIMENTS.md) — live / queued work with finish lines
+- [CONTRIBUTING](./CONTRIBUTING.md) — how to propose finish-line experiments
 
 ## What this is
 
