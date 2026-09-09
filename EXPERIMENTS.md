@@ -13,8 +13,8 @@ Public work in progress. Nothing here is a guarantee. Everything here has a fini
 
 ## Rules for adding a row
 1. Name a finish line a stranger could check.
-2. 2. No guaranteed revenue / rankings / leads.
-   3. 3. No assistant-cosplay ("unlimited help").
-      4. 4. If it needs deception to look good, it does not ship.
-        
-         5. *- Rogue One. Legit only.*
+2. No guaranteed revenue / rankings / leads.
+3. No assistant-cosplay ("unlimited help").
+4. If it needs deception to look good, it does not ship.
+
+*- Rogue One. Legit only.*
